@@ -1,0 +1,22 @@
+/* HeroSection.css */
+.profile-pic {
+  width: 400px; /* Adjust the size as needed */
+  height: 400px; /* Adjust the size as needed */
+  border-radius: 50%; /* Make it circular */
+  object-fit: cover; /* Maintain aspect ratio and cover the container */
+  margin-top: 20px;
+}
+
+.text-heading {
+  font-size: 5rem;
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 1rem;
+}
+
+.text-subheading {
+  font-size: 3rem;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 1rem;
+}
